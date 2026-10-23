@@ -1,0 +1,6 @@
+# Raspberry Pi Dependencies (Raspberry Pi OS 64-bit)
+mediapipe>=0.10.30
+opencv-python-headless>=4.10
+pillow>=10
+numpy>=1.26
+tensorflow>=2.16

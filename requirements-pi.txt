@@ -1,0 +1,6 @@
+mediapipe>=0.10.30
+opencv-python>=4.10
+pillow>=10
+numpy>=1.26
+# TensorFlow is used as a fallback if tflite-runtime is unavailable.
+tensorflow>=2.16
